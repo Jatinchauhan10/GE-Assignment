@@ -24,8 +24,8 @@ REST API: Exposes endpoints to retrieve processed data based on tenant_id and de
 **Setup and Configuration**
 
   1. **Clone the repository:**
-    git clone https://github.com/yourusername/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/Jatinchauhan10/GE-Assignment.git
+    cd 
 
   2. **Configure application properties:**Set up src/main/resources/application.properties with the necessary configurations:
       Kafka configurations
